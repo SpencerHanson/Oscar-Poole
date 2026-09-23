@@ -1,0 +1,7 @@
+{
+  "name": "Oscar Poole - Garage Door Repair",
+  "description": "Premium garage door repairs, broken spring replacement, opener servicing, and new door installations in Brighton, England.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
